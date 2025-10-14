@@ -29,7 +29,29 @@
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-%239999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci%20Resolve-%231E1E1E.svg?style=for-the-badge&logo=DaVinci%20Resolve&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-%239999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+---
+## 📊 GitHub Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ArjunVMenon&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Arjun V Menon's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArjunVMenon&theme=tokyonight&hide_border=false" alt="Arjun V Menon's GitHub Streak" />
+</p>
 
 ---
+
+## 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ArjunVMenon&theme=tokyonight&no-frame=false&no-bg=false&margin-w=15" />
+</p>
+
+---
+
+## 💬 Random Dev Quote:
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ⭐️ From [Arjun V Menon](https://github.com/ArjunVMenon)
