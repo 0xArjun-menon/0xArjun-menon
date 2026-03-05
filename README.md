@@ -75,12 +75,12 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArjunVMenon&theme=tokyonight" alt="Arjun's GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/ArjunVMenon.png?size=100" alt="Arjun's GitHub Avatar" style="border-radius: 50%; margin-bottom: 10px;"/>
-</p>
+---
+
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/master/snake.svg" alt="Snake Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/master/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
