@@ -8,28 +8,38 @@
 
 ## 💡 Random Dev Quote
 
-<p align="center" style="font-style: italic; color: #00C2FF; font-size: 18px;">
-“Your most unhappy customers are your greatest source of learning.”
+<p align="center">
+<i>"Your most unhappy customers are your greatest source of learning."</i>
 </p>
-<p align="center" style="color: #FF007F; font-weight: bold;">
-- Bill Gates
+
+<p align="center">
+<b>- Bill Gates</b>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 Computer Science student at **Amrita Vishwa Vidyapeetham, Kochi**  
-💻 Passionate **Web Developer & Programmer**  
-🎬 **Video Editor & Creative Designer**  
-🚀 Always learning new technologies and improving my skills  
+🎓 Computer Science student at **Amrita Vishwa Vidyapeetham, Kochi**
+💻 Passionate **Web Developer & Programmer**
+🎬 **Video Editor & Creative Designer**
+🚀 Always learning new technologies and improving my skills
 
 ---
 
 ## 💻 Programming & Web
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,mysql,mongodb" alt="Programming & Web Skills"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50"/>
+
 </p>
 
 ---
@@ -37,12 +47,14 @@
 ## 🎬 Creative Software I Use
 
 <p align="center">
-<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Adobe Premiere Pro"/>
-<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop"/>
-<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
-<img src="https://img.shields.io/badge/DaVinci%20Resolve-000000?style=for-the-badge&logo=davinciresolve&logoColor=white" alt="DaVinci Resolve"/>
-<img src="https://img.shields.io/badge/Blackmagic%20Fusion-FF6600?style=for-the-badge&logo=blackmagicdesign&logoColor=white" alt="Blackmagic Fusion"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="50"/>
+<img src="https://cdn.simpleicons.org/canva/00C4CC" height="50"/>
+<img src="https://cdn.simpleicons.org/davinciresolve/000000" height="50"/>
+<img src="https://cdn.simpleicons.org/blackmagicdesign/FF6600" height="50"/>
+
 </p>
 
 ---
@@ -50,17 +62,19 @@
 ## 🌐 Connect With Me
 
 <p align="center">
+
 <a href="https://linkedin.com/in/yourusername">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://cdn.simpleicons.org/linkedin/0077B5" height="40"/>
 </a>
 
 <a href="https://instagram.com/yourusername">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<img src="https://cdn.simpleicons.org/instagram/E4405F" height="40"/>
 </a>
 
 <a href="mailto:youremail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<img src="https://cdn.simpleicons.org/gmail/D14836" height="40"/>
 </a>
+
 </p>
 
 ---
@@ -68,11 +82,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ArjunVMenon&show_icons=true&theme=tokyonight" alt="Arjun's GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ArjunVMenon&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArjunVMenon&theme=tokyonight" alt="Arjun's GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ArjunVMenon&theme=tokyonight"/>
 </p>
 
 ---
@@ -80,7 +94,7 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/master/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+<img src="https://raw.githubusercontent.com/Platane/snk/master/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
