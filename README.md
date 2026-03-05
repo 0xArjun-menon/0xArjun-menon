@@ -4,9 +4,15 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Web+Developer;Programmer;Video+Editor;Creative+Tech+Enthusiast" />
 </p>
 
-<p align="center">
-"Code is like humor. When you have to explain it, it’s bad." – Cory House<br>
-"Editing is like sculpting; it’s the art of removing the unnecessary to reveal the masterpiece."
+---
+
+## 💡 Random Dev Quote
+
+<p align="center" style="font-style: italic; color: #00C2FF; font-size: 18px;">
+“Your most unhappy customers are your greatest source of learning.”
+</p>
+<p align="center" style="color: #FF007F; font-weight: bold;">
+- Bill Gates
 </p>
 
 ---
