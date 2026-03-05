@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arjun V Menon</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Web+Developer;Programmer;Video+Editor;Creative+Tech+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Web+Developer;Programmer;Video+Editor;Creative+Tech+Enthusiast" />
 </p>
 
 ---
@@ -15,31 +15,37 @@
 
 ---
 
-## 💻 Programming & Web Technologies
+## 💻 Programming & Web
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,mysql,mongodb&perline=4" />
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,mysql,mongodb" />
 </p>
 
 ---
 
 ## 🎬 Creative Software I Use
 
-<p align="center">
-<img src="https://cdn.simpleicons.org/adobephotoshop" height="50"/>
-<img src="https://cdn.simpleicons.org/adobepremierepro" height="50"/>
-<img src="https://cdn.simpleicons.org/adobeaftereffects" height="50"/>
-<img src="https://cdn.simpleicons.org/blender" height="50"/>
-<img src="https://cdn.simpleicons.org/davinciresolve" height="50"/>
-<img src="https://cdn.simpleicons.org/blackmagicdesign" height="50"/>
-<img src="https://cdn.simpleicons.org/canva" height="50"/>
+<p>
+
+<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/DaVinci%20Resolve-000000?style=for-the-badge&logo=davinciresolve&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Blackmagic%20Fusion-FF6600?style=for-the-badge&logo=blackmagicdesign&logoColor=white"/>
+
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="center">
+<p>
 <a href="https://linkedin.com/in/yourusername">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -59,11 +65,12 @@
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=ArjunVMenon&show_icons=true&theme=tokyonight"/>
-<br>
+</p>
+
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArjunVMenon&theme=tokyonight"/>
 </p>
 
 ---
 
 ⭐ From **Arjun V Menon**
-
