@@ -16,9 +16,8 @@ jobs:
       - name: Generate GitHub Contribution Snake SVG
         uses: platane/snk@v1.1.2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          file: github-contribution-grid-snake.svg
-          theme: tokyo-night  # Optional: customize colors, see docs
+          github_user_name: '0xArjun-menon'   # Your exact GitHub username
+          svg_out_path: 'github-contribution-grid-snake.svg'
 
       - name: Commit SVG file
         run: |
