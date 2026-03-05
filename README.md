@@ -26,15 +26,13 @@
 ## 🎬 Creative Software I Use
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=ps,pr,ae,blender&perline=4"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/DaVinci%20Resolve-000000?style=for-the-badge&logo=davinciresolve&logoColor=white"/>
-<img src="https://img.shields.io/badge/Blackmagic%20Fusion-FF6600?style=for-the-badge&logo=blackmagicdesign&logoColor=white"/>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-
+<img src="https://cdn.simpleicons.org/adobephotoshop" height="50"/>
+<img src="https://cdn.simpleicons.org/adobepremierepro" height="50"/>
+<img src="https://cdn.simpleicons.org/adobeaftereffects" height="50"/>
+<img src="https://cdn.simpleicons.org/blender" height="50"/>
+<img src="https://cdn.simpleicons.org/davinciresolve" height="50"/>
+<img src="https://cdn.simpleicons.org/blackmagicdesign" height="50"/>
+<img src="https://cdn.simpleicons.org/canva" height="50"/>
 </p>
 
 ---
@@ -42,7 +40,6 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-
 <a href="https://linkedin.com/in/yourusername">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -54,7 +51,6 @@
 <a href="mailto:youremail@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 </p>
 
 ---
@@ -62,15 +58,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=ArjunVMenon&show_icons=true&theme=tokyonight"/>
-
 <br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArjunVMenon&theme=tokyonight"/>
-
 </p>
 
 ---
 
 ⭐ From **Arjun V Menon**
+
