@@ -6,15 +6,14 @@
 
 ---
 
+
+
 ## 💡 Random Dev Quote
 
 <p align="center">
-<i>"Your most unhappy customers are your greatest source of learning."</i>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=00C2FF&center=true&vCenter=true&width=700&lines=Your+most+unhappy+customers+are+your+greatest+source+of+learning.;-+Bill+Gates" />
 </p>
 
-<p align="center">
-<b>- Bill Gates</b>
-</p>
 
 ---
 
