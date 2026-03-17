@@ -19,10 +19,9 @@
 
 ## 👨‍💻 About Me
 
-🎓 Computer Science student at **Amrita Vishwa Vidyapeetham, Kochi**
-💻 Passionate **Web Developer & Programmer**
-🎬 **Video Editor & Creative Designer**
-🚀 Always learning new technologies and improving my skills
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3500&pause=1500&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student+at+Amrita+Vishwa+Vidyapeetham;Passionate+Web+Developer+%26+Programmer;Creative+Video+Editor+%26+Designer;Always+learning+new+technologies" />
+</p>
 
 ---
 
