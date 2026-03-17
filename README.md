@@ -51,7 +51,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="50"/>
-<img src="https://cdn.simpleicons.org/canva/00C4CC" height="50"/>
 <img src="https://cdn.simpleicons.org/davinciresolve/000000" height="50"/>
 <img src="https://cdn.simpleicons.org/blackmagicdesign/FF6600" height="50"/>
 
@@ -63,9 +62,6 @@
 
 <p align="center">
 
-<a href="https://linkedin.com/in/yourusername">
-<img src="https://cdn.simpleicons.org/linkedin/0077B5" height="40"/>
-</a>
 
 <a href="https://instagram.com/yourusername">
 <img src="https://cdn.simpleicons.org/instagram/E4405F" height="40"/>
