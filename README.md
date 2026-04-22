@@ -84,13 +84,6 @@
 </p>
 
 ---
-
-## 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/master/output/github-contribution-grid-snake.svg"/>
-</p>
-
 ---
 
 ⭐ From **Arjun V Menon**
