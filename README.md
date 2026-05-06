@@ -103,17 +103,17 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-
-
-<a href="https://instagram.com/yourusername">
-<img src="https://cdn.simpleicons.org/instagram/E4405F" height="40"/>
-</a>
-
-<a href="mailto:youremail@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/D14836" height="40"/>
-</a>
-
+  <a href="https://www.youtube.com/c/@videotrolley3542"><img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href=["https://www.linkedin.com/in/arjun-v-menon-8425512b5/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
+<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
+
 
 ---
 
