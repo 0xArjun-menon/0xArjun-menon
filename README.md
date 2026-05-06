@@ -29,6 +29,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3500&pause=1500&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Science+Student+at+Amrita+Vishwa+Vidyapeetham;Passionate+Web+Developer+%26+Programmer;Creative+Video+Editor+%26+Designer;Always+learning+new+technologies" />
 </p>
 
+<!--🖼️SVG BANNER / 🌐WEBSITE: https://github.com/Akshay090/svg-banners -->
+<p align="center">
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/banner.svg"  width="600">
+
 <!--🔳TERMINAL / 🌐WEBSITES: https://github.com/asciinema/asciinema & https://github.com/dstein64/gifcast -->
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/terminal.gif" width="400" height="400">
