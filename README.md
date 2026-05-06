@@ -141,6 +141,12 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArjunVMenon&theme=tokyonight"/>
 </p>
 
+<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+
+<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk & https://github.com/ironmaniiith/Github-profile-name-writer -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-snake-dark.svg" width="100%">
 ---
 ---
 
