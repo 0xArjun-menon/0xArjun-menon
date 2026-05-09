@@ -43,8 +43,8 @@
 👋 Hi, I'm <b style="color:#00FF00;">Arjun V Menon</b>  
 🎓 BCA Student  
 💻 Full Stack Developer  
-🤖 Robotics Enthusiast  
-🧠 AI / ML Explorer  
+🌐 Web Developer
+📊 Database & Backend Developer
 🎨 UI/UX Designer
 
 </p>
