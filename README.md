@@ -158,3 +158,9 @@
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-snake-dark.svg" width="100%">
 </p>
+
+<!-- 🔴 RED MATRIX FOOTER -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:3b0000&height=100&section=footer"/>
+</p>
