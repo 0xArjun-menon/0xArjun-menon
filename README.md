@@ -1,15 +1,12 @@
-<!--🖼️RICK-->
 <p align="center">
-<img src="https://c.tenor.com/p7IgwS17V0sAAAAC/rtj-rick-and-morty.gif" height="240" width="370">
-
-
-
-<h1 align="center">Hi 👋, I'm Arjun V Menon</h1>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Web+Developer;Programmer;Video+Editor;Creative+Tech+Enthusiast" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:001f1f&height=180&section=header&text=ARJUN%20V%20MENON&fontColor=00FF00&fontSize=30&animation=fadeIn"/>
 </p>
 
+<!-- 🔥 GLITCH STYLE ANIMATION -->
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=1500&pause=500&color=00FF00&center=true&vCenter=true&width=800&lines=SYSTEM+BOOTING...;ACCESS+GRANTED;WELCOME+ARJUN+V+MENON;LOADING+PORTFOLIO...;INITIALIZING+AI+MODULE"/>
+</p>
 ---
 
 
