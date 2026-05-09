@@ -101,7 +101,6 @@
 ### 👨‍💻 Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python"/> Python
 <img src="https://skillicons.dev/icons?i=java"/> Java
 <img src="https://skillicons.dev/icons?i=c"/> C
 <img src="https://skillicons.dev/icons?i=cpp"/> C++
