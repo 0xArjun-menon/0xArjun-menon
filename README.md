@@ -18,7 +18,7 @@ Arjun_V_Menon_
 
 ┌────────────────────────────────────────────┐
 │ OS:       Arch Linux, Android, Windows     │
-│ Host:     Amrita Vishwa Vidyapeetham       │
+│ Host:     Zeus                             │
 │ Terminal: luffy                            │
 │ WM:       Hyprland                         │
 │ Shell:    zsh                              │
