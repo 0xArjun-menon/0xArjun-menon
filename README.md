@@ -36,10 +36,10 @@ Arjun_V_Menon_
 
 Hobbies.Software:
 UI/UX Design, Frontend Development,
-Database Management
+Database creator
 
 Hobbies.Hardware:
-PC Building, IoT Projects
+PC Building, IoT 
 
 ──────────────────────────────────────────────
 
