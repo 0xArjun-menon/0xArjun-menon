@@ -19,7 +19,7 @@ Arjun_V_Menon_
 ┌────────────────────────────────────────────┐
 │ OS:       Arch Linux, Android, Windows     │
 │ Host:     Amrita Vishwa Vidyapeetham       │
-│ Terminal: kitty                            │
+│ Terminal: luffy                            │
 │ WM:       Hyprland                         │
 │ Shell:    zsh                              │
 │ Locale:   en_US.UTF-8                      │
