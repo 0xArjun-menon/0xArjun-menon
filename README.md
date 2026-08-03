@@ -103,15 +103,9 @@ UI/UX design for a home maintenance service booking application featuring a clea
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=0xArjun-menon&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=0xArjun-menon&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xArjun-menon&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
