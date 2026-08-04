@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 🚀 Frontend Developer | UI/UX Designer | BCA (Hons) Student
+### 🚀 Frontend Developer | UI/UX Designer | MEAN Stack Developer|  BCA (Hons) Student
 
 Building modern web applications with a focus on performance, user experience, and clean design.
 
