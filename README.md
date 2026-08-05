@@ -109,6 +109,12 @@ UI/UX design for a home maintenance service booking application featuring a clea
 
 </p>
 
+
+## 📈 CONTRIBUTION MATRIX
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devadath006&theme=react-dark&bg_color=0D1117&color=00FF99&line=00FF99&point=FFFFFF&hide_border=true"/>
+</p>
 ---
 
 ## 🏆 Achievements
