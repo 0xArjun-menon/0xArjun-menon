@@ -1,433 +1,167 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Arjun V Menon — Frontend Developer &amp; UI/UX Designer</title>
-<meta name="description" content="Arjun V Menon — Frontend Developer, UI/UX Designer, and MERN Stack / React Developer.">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
-<style>
-  :root{
-    --bg: #06090a;
-    --bg-alt: #0b1210;
-    --surface: rgba(255,255,255,0.035);
-    --surface-2: rgba(255,255,255,0.06);
-    --border: rgba(120,255,180,0.14);
-    --border-strong: rgba(120,255,180,0.3);
-    --green: #3dffa0;
-    --green-soft: #8fffc6;
-    --green-dim: #1a5c3f;
-    --text: #e8f3ee;
-    --text-muted: #86a79a;
-    --text-faint: #52685f;
-    --mono: 'JetBrains Mono', monospace;
-    --display: 'Space Grotesk', sans-serif;
-    --body: 'Inter', sans-serif;
-    --radius: 14px;
-    --maxw: 1120px;
-  }
+# 👋 Hi, I'm Arjun V Menon
 
-  *{ box-sizing: border-box; margin:0; padding:0; }
-  html{ scroll-behavior: smooth; }
-  @media (prefers-reduced-motion: reduce){
-    html{ scroll-behavior: auto; }
-    *{ animation-duration: 0.001ms !important; animation-iteration-count: 1 !important; transition-duration: 0.001ms !important; }
-  }
+<div align="center">
 
-  body{
-    background: var(--bg);
-    color: var(--text);
-    font-family: var(--body);
-    line-height: 1.6;
-    overflow-x: hidden;
-    background-image:
-      radial-gradient(ellipse 700px 500px at 15% -10%, rgba(61,255,160,0.08), transparent 60%),
-      radial-gradient(ellipse 600px 500px at 100% 20%, rgba(61,255,160,0.05), transparent 60%);
-    background-attachment: fixed;
-  }
+### 🚀 Frontend Developer | UI/UX Designer | MEAN Stack Developer|  BCA (Hons) Student
 
-  ::selection{ background: var(--green); color: #04140c; }
+Building modern web applications with a focus on performance, user experience, and clean design.
 
-  a{ color: inherit; text-decoration: none; }
+[![Profile Views](https://komarev.com/ghpvc/?username=0xArjun-menon\&label=Profile%20Views\&color=0e75b6\&style=flat)](https://github.com/0xArjun-menon)
 
-  .noise{
-    position: fixed; inset:0; pointer-events:none; z-index: 2;
-    opacity: 0.025; mix-blend-mode: overlay;
-    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='140' height='140'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
-  }
-
-  /* ---------- INTRO ---------- */
-  #intro{
-    position: fixed; inset:0; z-index: 999;
-    background: #05080a;
-    display:flex; align-items:center; justify-content:center;
-    padding: 24px;
-    transition: opacity 0.6s ease, visibility 0.6s ease;
-  }
-  #intro.hide{ opacity:0; visibility:hidden; pointer-events:none; }
-  .boot-window{
-    width: min(560px, 92vw);
-    border: 1px solid var(--border-strong);
-    border-radius: 10px;
-    background: rgba(255,255,255,0.02);
-    box-shadow: 0 0 60px rgba(61,255,160,0.08);
-    overflow:hidden;
-  }
-  .boot-bar{
-    display:flex; align-items:center; gap:6px;
-    padding: 10px 14px;
-    background: rgba(255,255,255,0.03);
-    border-bottom: 1px solid var(--border);
-  }
-  .boot-dot{ width:9px; height:9px; border-radius:50%; background: #2a332f; }
-  .boot-title{ margin-left:10px; font-family: var(--mono); font-size:11px; color: var(--text-faint); letter-spacing: 0.03em; }
-  .boot-body{
-    font-family: var(--mono);
-    font-size: clamp(12px, 3vw, 14px);
-    color: var(--green-soft);
-    padding: 22px 20px 26px;
-    min-height: 190px;
-  }
-  .boot-line{ white-space: pre-wrap; min-height: 1.5em; }
-  .boot-line .dim{ color: var(--text-faint); }
-  .boot-line .out{ color: var(--text); }
-  .caret{
-    display:inline-block; width:8px; height:1em; background: var(--green);
-    vertical-align: -2px; margin-left: 2px;
-    animation: blink 1s step-end infinite;
-  }
-  @keyframes blink{ 50%{ opacity:0; } }
-
-  /* ---------- NAV ---------- */
-  header{
-    position: fixed; top:0; left:0; right:0; z-index: 100;
-    backdrop-filter: blur(14px);
-    background: rgba(6,9,10,0.72);
-    border-bottom: 1px solid var(--border);
-  }
-  .nav-inner{
-    max-width: var(--maxw); margin: 0 auto;
-    display:flex; align-items:center; justify-content: space-between;
-    padding: 0 24px; height: 56px;
-  }
-  .brand{
-    font-family: var(--mono); font-size: 14px; font-weight:600;
-    color: var(--text); display:flex; align-items:center; gap:8px;
-  }
-  .brand .dot{ width:8px; height:8px; border-radius:50%; background: var(--green); box-shadow: 0 0 8px var(--green); }
-  .tabs{ display:flex; gap:2px; }
-  .tab{
-    font-family: var(--mono); font-size: 13px; color: var(--text-muted);
-    padding: 8px 14px; border: 1px solid transparent; border-bottom:none;
-    border-radius: 8px 8px 0 0; cursor:pointer; transition: color 0.2s, background 0.2s;
-    position: relative; top: 1px;
-  }
-  .tab:hover{ color: var(--text); }
-  .tab.active{
-    color: var(--green-soft);
-    background: rgba(61,255,160,0.06);
-    border-color: var(--border);
-    border-bottom: 1px solid var(--bg);
-  }
-  .tab .ext{ color: var(--text-faint); }
-  .tab.active .ext{ color: var(--green-dim); }
-
-  .menu-btn{ display:none; background:none; border:1px solid var(--border); border-radius:6px; width:36px; height:36px; color: var(--green-soft); font-size:16px; cursor:pointer; }
-  .mobile-tabs{ display:none; }
-
-  @media (max-width: 760px){
-    .tabs{ display:none; }
-    .menu-btn{ display:block; }
-    .mobile-tabs.open{
-      display:flex; flex-direction:column; position:absolute; top:56px; left:0; right:0;
-      background: rgba(6,9,10,0.97); border-bottom: 1px solid var(--border); padding: 8px;
-    }
-    .mobile-tabs .tab{ border-radius:8px; padding:12px 14px; }
-  }
-
-  /* ---------- LAYOUT ---------- */
-  section{ max-width: var(--maxw); margin: 0 auto; padding: 140px 24px 40px; }
-  section + section{ padding-top: 100px; }
-  .eyebrow{
-    font-family: var(--mono); font-size: 12.5px; color: var(--green);
-    letter-spacing: 0.06em; display:flex; align-items:center; gap:10px; margin-bottom: 18px;
-  }
-  .eyebrow::before{ content: ''; width: 18px; height:1px; background: var(--green-dim); }
-  .eyebrow .path{ color: var(--text-faint); }
-
-  .reveal{ opacity:0; transform: translateY(22px); transition: opacity 0.7s ease, transform 0.7s ease; }
-  .reveal.in-view{ opacity:1; transform: translateY(0); }
-
-  /* ---------- HERO ---------- */
-  #home{ padding-top: 150px; }
-  .hero-grid{ display:grid; grid-template-columns: 1.15fr 0.85fr; gap: 48px; align-items: center; }
-  @media (max-width: 900px){ .hero-grid{ grid-template-columns: 1fr; } }
-
-  .kicker{ font-family: var(--mono); font-size: 13px; color: var(--text-muted); margin-bottom: 14px; }
-  .kicker .prompt{ color: var(--green); }
-
-  h1.name{
-    font-family: var(--display); font-weight: 700;
-    font-size: clamp(2.4rem, 6vw, 4rem);
-    line-height: 1.05; letter-spacing: -0.01em;
-    color: var(--text); margin-bottom: 18px;
-  }
-  h1.name .last{ color: var(--green-soft); }
-
-  .role-line{
-    font-family: var(--mono); font-size: clamp(0.95rem, 2.2vw, 1.15rem);
-    color: var(--text-muted); margin-bottom: 22px; min-height: 1.6em;
-  }
-  .role-line .cursor-inline{
-    display:inline-block; width:2px; height:1em; background:var(--green);
-    vertical-align:-2px; margin-left:2px; animation: blink 1s step-end infinite;
-  }
-
-  .bio{ color: var(--text-muted); max-width: 54ch; margin-bottom: 30px; font-size: 1rem; }
-  .bio strong{ color: var(--text); font-weight: 600; }
-
-  .cta-row{ display:flex; gap: 14px; flex-wrap: wrap; margin-bottom: 26px; }
-  .btn{
-    font-family: var(--mono); font-size: 13.5px; padding: 12px 20px; border-radius: 8px;
-    cursor:pointer; transition: all 0.2s ease; border: 1px solid var(--border-strong);
-    display:inline-flex; align-items:center; gap:8px;
-  }
-  .btn-primary{ background: var(--green); color: #04140c; font-weight: 600; border-color: var(--green); }
-  .btn-primary:hover{ box-shadow: 0 0 24px rgba(61,255,160,0.35); transform: translateY(-1px); }
-  .btn-ghost{ color: var(--text); background: transparent; }
-  .btn-ghost:hover{ border-color: var(--green); color: var(--green-soft); }
-
-  .social-row{ display:flex; gap: 14px; }
-  .social-row a{
-    width: 38px; height:38px; border-radius:8px; border: 1px solid var(--border);
-    display:flex; align-items:center; justify-content:center; color: var(--text-muted);
-    transition: all 0.2s ease;
-  }
-  .social-row a:hover{ color: var(--green); border-color: var(--green); transform: translateY(-2px); }
-  .social-row svg{ width:17px; height:17px; }
-
-  /* Hero terminal panel */
-  .term-panel{
-    border: 1px solid var(--border); border-radius: var(--radius);
-    background: var(--surface); backdrop-filter: blur(10px);
-    overflow:hidden; box-shadow: 0 20px 60px rgba(0,0,0,0.35);
-    transition: transform 0.2s ease;
-  }
-  .term-top{
-    display:flex; align-items:center; gap:6px; padding: 10px 14px;
-    background: rgba(255,255,255,0.03); border-bottom: 1px solid var(--border);
-  }
-  .term-body{ font-family: var(--mono); font-size: 12.5px; padding: 18px; color: var(--text-muted); }
-  .term-body .k{ color: var(--green-soft); }
-  .term-body .s{ color: var(--text-faint); }
-  .term-body div{ margin-bottom: 8px; }
-  .term-body .indent{ padding-left: 16px; }
-
-  /* ---------- ABOUT ---------- */
-  .about-grid{ display:grid; grid-template-columns: 1fr 1fr; gap: 40px; }
-  @media (max-width: 800px){ .about-grid{ grid-template-columns: 1fr; } }
-  h2{
-    font-family: var(--display); font-weight: 700; font-size: clamp(1.6rem, 4vw, 2.1rem);
-    margin-bottom: 20px; color: var(--text);
-  }
-  .about-copy p{ color: var(--text-muted); margin-bottom: 16px; max-width: 58ch; }
-  .facts{ display:grid; grid-template-columns: 1fr 1fr; gap: 14px; }
-  .fact{
-    border: 1px solid var(--border); border-radius: 10px; padding: 16px;
-    background: var(--surface); font-family: var(--mono); font-size: 12.5px;
-  }
-  .fact .flabel{ color: var(--text-faint); display:block; margin-bottom:6px; }
-  .fact .fval{ color: var(--text); font-size: 13.5px; }
-
-  /* ---------- SKILLS ---------- */
-  .skills-file{
-    border: 1px solid var(--border); border-radius: var(--radius);
-    background: var(--surface); overflow:hidden;
-  }
-  .skills-head{
-    padding: 12px 18px; border-bottom: 1px solid var(--border);
-    font-family: var(--mono); font-size: 12px; color: var(--text-faint);
-    display:flex; justify-content: space-between;
-  }
-  .skills-body{ padding: 24px; }
-  .skill-cat{ margin-bottom: 22px; }
-  .skill-cat:last-child{ margin-bottom: 0; }
-  .cat-title{
-    font-family: var(--mono); font-size: 12.5px; color: var(--green);
-    margin-bottom: 10px; display:flex; align-items:baseline; gap:8px;
-  }
-  .cat-title::before{ content: '"'; color: var(--text-faint); }
-  .cat-title::after{ content: '": ['; color: var(--text-faint); font-weight:400; }
-  .chip-row{ display:flex; flex-wrap:wrap; gap: 8px; padding-left: 4px; }
-  .chip{
-    font-family: var(--mono); font-size: 12.5px; color: var(--text);
-    border: 1px solid var(--border); border-radius: 6px; padding: 6px 12px;
-    background: rgba(255,255,255,0.02); transition: all 0.2s ease; cursor: default;
-  }
-  .chip:hover{ border-color: var(--green); color: var(--green-soft); background: rgba(61,255,160,0.06); transform: translateY(-2px); }
-
-  /* ---------- PROJECTS ---------- */
-  .proj-grid{ display:grid; grid-template-columns: 1fr 1fr; gap: 22px; }
-  @media (max-width: 800px){ .proj-grid{ grid-template-columns: 1fr; } }
-  .proj-card{
-    border: 1px solid var(--border); border-radius: var(--radius);
-    background: var(--surface); padding: 24px; position: relative; overflow: hidden;
-    transition: transform 0.15s ease, border-color 0.2s ease;
-  }
-  .proj-card::before{
-    content:''; position:absolute; inset:0; opacity:0; pointer-events:none;
-    background: radial-gradient(300px circle at var(--mx,50%) var(--my,50%), rgba(61,255,160,0.10), transparent 60%);
-    transition: opacity 0.3s ease;
-  }
-  .proj-card:hover::before{ opacity:1; }
-  .proj-card:hover{ border-color: var(--border-strong); }
-  .proj-top{ display:flex; align-items:center; justify-content:space-between; margin-bottom: 12px; }
-  .proj-file{ font-family: var(--mono); font-size: 12px; color: var(--text-faint); }
-  .proj-title{ font-family: var(--display); font-weight: 600; font-size: 1.25rem; margin-bottom: 10px; color: var(--text); }
-  .proj-desc{ color: var(--text-muted); font-size: 0.93rem; margin-bottom: 16px; }
-  .proj-tech{ display:flex; flex-wrap:wrap; gap:6px; margin-bottom: 18px; }
-  .proj-tech span{
-    font-family: var(--mono); font-size: 11px; color: var(--green-soft);
-    border: 1px solid var(--green-dim); border-radius: 5px; padding: 3px 8px;
-  }
-  .proj-link{
-    font-family: var(--mono); font-size: 12.5px; color: var(--text-muted);
-    display:inline-flex; align-items:center; gap:6px; transition: color 0.2s ease;
-  }
-  .proj-link:hover{ color: var(--green); }
-  .proj-link svg{ width:14px; height:14px; }
-
-  /* ---------- CONTACT ---------- */
-  .contact-file{
-    border: 1px solid var(--border); border-radius: var(--radius);
-    background: var(--surface); padding: 40px; text-align:center;
-  }
-  .contact-file h2{ margin-bottom: 12px; }
-  .contact-sub{ color: var(--text-muted); margin-bottom: 30px; max-width: 46ch; margin-inline:auto; }
-  .contact-links{ display:flex; gap: 16px; justify-content:center; flex-wrap:wrap; margin-bottom: 8px; }
-  .contact-links a{
-    font-family: var(--mono); font-size: 13.5px; padding: 12px 20px;
-    border: 1px solid var(--border); border-radius: 8px; display:inline-flex; align-items:center; gap:8px;
-    color: var(--text); transition: all 0.2s ease;
-  }
-  .contact-links a:hover{ border-color: var(--green); color: var(--green-soft); transform: translateY(-2px); }
-  .contact-links svg{ width:16px; height:16px; }
-
-  .connect-divider{
-    display:flex; align-items:center; gap: 14px; margin: 30px 0 24px;
-    font-family: var(--mono); font-size: 11.5px; color: var(--text-faint);
-  }
-  .connect-divider::before, .connect-divider::after{
-    content:''; flex:1; height:1px; background: var(--border);
-  }
-
-  .connect-form{ text-align: left; max-width: 480px; margin: 0 auto; }
-  .form-row{ display:flex; gap: 14px; }
-  @media (max-width: 560px){ .form-row{ flex-direction: column; } }
-  .field{ flex:1; margin-bottom: 16px; }
-  .field label{
-    display:block; font-family: var(--mono); font-size: 11.5px; color: var(--green);
-    margin-bottom: 6px; letter-spacing: 0.03em;
-  }
-  .field label::before{ content: '// '; color: var(--text-faint); }
-  .field input, .field textarea{
-    width: 100%; background: rgba(255,255,255,0.02); border: 1px solid var(--border);
-    border-radius: 8px; padding: 11px 13px; color: var(--text); font-family: var(--body);
-    font-size: 13.5px; resize: vertical; transition: border-color 0.2s ease, background 0.2s ease;
-  }
-  .field input:focus, .field textarea:focus{
-    outline: none; border-color: var(--green); background: rgba(61,255,160,0.04);
-  }
-  .field input::placeholder, .field textarea::placeholder{ color: var(--text-faint); }
-  .connect-form .btn{ margin-top: 4px; }
-
-  footer{
-    text-align:center; padding: 34px 24px 50px; font-family: var(--mono);
-    font-size: 12px; color: var(--text-faint);
-  }
-  footer .heart{ color: var(--green-dim); }
-
-  .placeholder-note{ font-size: 11px; color: var(--text-faint); margin-top: 10px; font-family: var(--mono); }
-</style>
-</head>
-<body>
-
-<div class="noise"></div>
-
-<!-- INTRO BOOT SEQUENCE -->
-<div id="intro">
-  <div class="boot-window">
-    <div class="boot-bar">
-      <span class="boot-dot"></span><span class="boot-dot"></span><span class="boot-dot"></span>
-      <span class="boot-title">arjun@portfolio — zsh</span>
-    </div>
-    <div class="boot-body" id="bootBody"></div>
-  </div>
 </div>
 
-<!-- NAV -->
-<header>
-  <div class="nav-inner">
-    <div class="brand"><span class="dot"></span>arjun.dev</div>
-    <nav class="tabs" id="tabs">
-      <a class="tab active" data-target="home">about<span class="ext">.tsx</span></a>
-      <a class="tab" data-target="skills">skills<span class="ext">.json</span></a>
-      <a class="tab" data-target="projects">projects<span class="ext">/</span></a>
-      <a class="tab" data-target="contact">contact<span class="ext">.md</span></a>
-    </nav>
-    <button class="menu-btn" id="menuBtn" aria-label="Open menu">☰</button>
-  </div>
-  <nav class="mobile-tabs" id="mobileTabs">
-    <a class="tab" data-target="home">about.tsx</a>
-    <a class="tab" data-target="skills">skills.json</a>
-    <a class="tab" data-target="projects">projects/</a>
-    <a class="tab" data-target="contact">contact.md</a>
-  </nav>
-</header>
+---
 
-<!-- HERO / ABOUT -->
-<section id="home">
-  <div class="hero-grid">
-    <div>
-      <div class="kicker"><span class="prompt">~/portfolio $</span> cat intro.txt</div>
-      <h1 class="name">Arjun V <span class="last">Menon</span></h1>
-      <div class="role-line" id="roleLine"></div>
-      <p class="bio">
-        BCA (Honours) student at <strong>Amrita Vishwa Vidyapeetham</strong>, building modern,
-        responsive, and user-friendly web applications. I care about clean UI/UX and scalable
-        engineering with <strong>React</strong> and the <strong>MERN stack</strong> — and I like
-        turning half-formed ideas into products people can actually click through.
-      </p>
-      <div class="cta-row">
-        <a class="btn btn-primary" href="#projects" data-nav="projects">View Projects →</a>
-        <a class="btn btn-ghost" href="#contact" data-nav="contact">Get In Touch</a>
-      </div>
-      <div class="social-row">
-        <a href="https://github.com/0xArjun-menon" target="_blank" rel="noopener" aria-label="GitHub">
-          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 .5C5.65.5.5 5.65.5 12c0 5.08 3.29 9.39 7.86 10.91.57.1.78-.25.78-.55 0-.27-.01-1.17-.02-2.12-3.2.7-3.88-1.36-3.88-1.36-.52-1.34-1.28-1.7-1.28-1.7-1.05-.72.08-.7.08-.7 1.16.08 1.77 1.19 1.77 1.19 1.03 1.77 2.7 1.26 3.36.96.1-.75.4-1.26.73-1.55-2.56-.29-5.25-1.28-5.25-5.7 0-1.26.45-2.28 1.19-3.09-.12-.29-.52-1.46.11-3.05 0 0 .97-.31 3.18 1.18a11.1 11.1 0 0 1 5.79 0c2.2-1.49 3.17-1.18 3.17-1.18.64 1.59.24 2.76.12 3.05.74.81 1.18 1.83 1.18 3.09 0 4.43-2.7 5.4-5.27 5.69.41.36.78 1.06.78 2.14 0 1.54-.01 2.79-.01 3.17 0 .31.2.66.79.55A10.52 10.52 0 0 0 23.5 12C23.5 5.65 18.35.5 12 .5Z"/></svg>
-        </a>
-        <a href="https://www.linkedin.com/in/arjun-v-menon-8425512b5/" target="_blank" rel="noopener" aria-label="LinkedIn">
-          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M20.45 20.45h-3.55v-5.57c0-1.33-.02-3.04-1.85-3.04-1.86 0-2.15 1.45-2.15 2.94v5.67H9.35V9h3.41v1.56h.05c.47-.9 1.63-1.85 3.36-1.85 3.6 0 4.27 2.37 4.27 5.46v6.28ZM5.34 7.43a2.06 2.06 0 1 1 0-4.12 2.06 2.06 0 0 1 0 4.12ZM7.12 20.45H3.56V9h3.56v11.45ZM22.22 0H1.77C.8 0 0 .78 0 1.75v20.5C0 23.22.8 24 1.77 24h20.45c.98 0 1.78-.78 1.78-1.75V1.75C24 .78 23.2 0 22.22 0Z"/></svg>
-        </a>
-        <a href="mailto:va5202542@gmail.com" aria-label="Email">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M3 5h18v14H3z"/><path d="m3 6 9 7 9-7"/></svg>
-        </a>
-      </div>
-    </div>
+## 👨‍💻 About Me
 
-    <div class="term-panel" id="tiltPanel">
-      <div class="term-top">
-        <span class="boot-dot"></span><span class="boot-dot"></span><span class="boot-dot"></span>
-      </div>
-      <div class="term-body">
-        <div><span class="s">// profile.config</span></div>
-        <div><span class="k">name</span>: "Arjun V Menon"</div>
-        <div><span class="k">focus</span>: "Frontend · UI/UX · MERN"</div>
-        <div><span class="k">studying</span>: "BCA (Hons), Amrita Vishwa Vidyapeetham"</div>
-        <div><span class="k">stack</span>: [</div>
-        <div class="indent">"React", "TypeScript", "Node.js",</div>
-        <div class="indent">"Express", "MongoDB", "FastAPI"</div>
-        <div>]</div>
-        <div><span class="k">status</span>: <span style="color:var(--green)">"op
+* 🎓 **BCA (Honours)** Student at **Amrita Vishwa Vidyapeetham**
+* 💻 Passionate about **Frontend Development**, **UI/UX Design**, and **Full-Stack Web Applications**
+* 🌱 Currently learning **Angular**, **MERN Stack**, **FastAPI**, and modern web technologies
+* 🎨 Love creating responsive, clean, and intuitive user interfaces
+* 🤝 Open to collaborating on innovative Open Source and Hackathon projects
+* 🚀 Always exploring new technologies and improving my development skills
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=angular,react,html,css,scss,bootstrap,tailwind,js,ts" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,django" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,firebase" />
+</p>
+
+### Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,postman,npm" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 XLOGIX – SSH Log Monitoring Dashboard
+
+A modern enterprise log monitoring system built using **Angular** and **FastAPI**.
+
+### Features
+
+* 📊 Real-time log monitoring
+* 🖥️ Remote SSH log access
+* 📈 Server health dashboard
+* 📂 File explorer
+* 🐳 Docker container monitoring
+* ⚡ Live log streaming
+
+**Tech Stack**
+
+Angular • FastAPI • Python • SSH • Linux • Chart.js
+
+---
+
+### 🔹 Onam POS System
+
+A responsive Point of Sale application developed using Angular.
+
+**Features**
+
+* Billing System
+* Product Management
+* Customer Management
+* Sales Reports
+* Responsive Dashboard
+* WhatsApp Receipt Integration
+
+---
+
+### 🔹 IEI Kochi Website
+
+Redesigned and developed the official website using the **MERN Stack**, focusing on performance, responsive UI, and improved user experience.
+
+---
+
+### 🔹 FixiGo
+
+UI/UX design for a home maintenance service booking application featuring a clean and user-friendly interface.
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+
+
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=0xArjun-menon&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+
+## 📈 CONTRIBUTION MATRIX
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xArjun-menon&theme=react-dark&bg_color=0D1117&color=00FF99&line=00FF99&point=FFFFFF&hide_border=true"/>
+</p>
+---
+
+## 🏆 Achievements
+
+* 🎖 NVIDIA Student Community Member
+* 🎖 IIC Social Media Sub-Committee Member
+* 💼 Completed Internship at Speechlogix
+* 🎥 Video Editor & Content Creator for Saviskhara 2025
+* 🌐 Web Developer for multiple academic and institutional projects
+
+---
+
+## 📚 Currently Learning
+
+* Advanced Angular
+* FastAPI
+* System Design
+* DevOps Fundamentals
+* Cloud Computing
+* AI-powered Web Applications
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+
+<a href="https://github.com/0xArjun-menon">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:your-email@example.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 *"Code. Design. Build. Learn. Repeat."*
+
+⭐ Thanks for visiting my profile! If you like my work, consider starring my repositories.
+
+</div>
