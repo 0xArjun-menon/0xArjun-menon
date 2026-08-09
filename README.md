@@ -74,28 +74,51 @@ Angular • FastAPI • Python • SSH • Linux • Chart.js
 
 ### 🔹 Onam POS System
 
-A responsive Point of Sale application developed using Angular.
+A responsive Point of Sale application developed using React.
 
 **Features**
-
-* Billing System
-* Product Management
-* Customer Management
-* Sales Reports
-* Responsive Dashboard
-* WhatsApp Receipt Integration
+ Billing System
+ Product Management
+ Customer Management
+ Sales Reports
+ Responsive Dashboard
+ WhatsApp Receipt Integration
+ Repo link : https://github.com/0xArjun-menon/billing-system-react-
 
 ---
 
 ### 🔹 IEI Kochi Website
 
-Redesigned and developed the official website using the **MERN Stack**, focusing on performance, responsive UI, and improved user experience.
+MERN Stack
+A modern website developed for the IEI Kochi organization with a focus on responsive design, user experience, and organizational information management.
+
+Responsive design across devices
+Organization info & event pages
+Clean, structured content management
+Built end-to-end on the MERN stack
+Repo link : https://github.com/0xArjun-menon/iei
 
 ---
 
 ### 🔹 FixiGo
 
 UI/UX design for a home maintenance service booking application featuring a clean and user-friendly interface.
+
+---
+
+---
+
+### 🔹 Personal Portfolio 
+
+HTML · CSS · JavaScript
+
+A modern personal portfolio showcasing skills, projects, education, experience, and contact information.
+
+Skills & project showcase
+Education & experience timeline
+Contact section
+Fully responsive layout
+Repo link : https://github.com/0xArjun-menon/protfolio
 
 ---
 
