@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="readme_samurai.png" alt="Arjun V Menon" width="660"/>
+  <img src="readme_samurai.png" alt="Arjun V Menon" width="700"/>
 </div>
