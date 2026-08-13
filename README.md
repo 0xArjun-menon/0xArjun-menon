@@ -138,6 +138,13 @@ Repo link : https://github.com/0xArjun-menon/protfolio
 </p>
 ---
 
+## 🐍 CONTRIBUTION SNAKE — ICHIGO
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devadath006/devadath006/output/deva-snake.svg" alt="DEVA Snake Animation"/>
+</p>
+----
+
 ## 🏆 Achievements
 
 * 🎖 NVIDIA Student Community Member
