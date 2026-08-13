@@ -6,8 +6,6 @@
 
 Building modern web applications with a focus on performance, user experience, and clean design.
 
-[![Profile Views](https://komarev.com/ghpvc/?username=0xArjun-menon\&label=Profile%20Views\&color=0e75b6\&style=flat)](https://github.com/0xArjun-menon)
-
 </div>
 
 ---
