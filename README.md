@@ -131,20 +131,6 @@ Repo link : https://github.com/0xArjun-menon/protfolio
 </p>
 
 
-## 📈 CONTRIBUTION MATRIX
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xArjun-menon&theme=react-dark&bg_color=0D1117&color=00FF99&line=00FF99&point=FFFFFF&hide_border=true"/>
-</p>
----
-
-## 🐍 CONTRIBUTION SNAKE — ICHIGO
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devadath006/devadath006/output/deva-snake.svg" alt="DEVA Snake Animation"/>
-</p>
-----
-
 ## 🏆 Achievements
 
 * 🎖 NVIDIA Student Community Member
