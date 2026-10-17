@@ -218,17 +218,55 @@ print(developer.build())
 
 ---
 
-## `05 / CONTRIBUTION SIGNAL`
+## `03 / CONTRIBUTION MATRIX`
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xArjun-menon&bg_color=080808&color=00ff66&line=00ff66&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+<img src="https://img.shields.io/badge/SYSTEM-GITHUB_ACTIVITY-00FF66?style=flat-square&labelColor=080808" />
+<img src="https://img.shields.io/badge/MODE-LIVE_STATS-00FF66?style=flat-square&labelColor=080808" />
+
+<br/><br/>
+
+### `// CONTRIBUTION HEATMAP`
+
+<img src="https://ghchart.rshah.org/00FF66/0xArjun-menon" alt="Arjun Menon's GitHub contribution graph" width="100%" />
 
 <br/>
 
-<a href="https://github.com/0xArjun-menon?tab=overview">
-<img src="https://img.shields.io/badge/VIEW-CONTRIBUTION_HISTORY-00FF66?style=for-the-badge&logo=github&logoColor=00FF66&labelColor=080808" />
+<sub>DAILY CONTRIBUTIONS // GREEN PIXELS INDICATE ACTIVITY</sub>
+
+---
+
+### `// GITHUB ANALYTICS`
+
+<a href="https://github.com/0xArjun-menon">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=0xArjun-menon&show_icons=true&hide_border=true&bg_color=080808&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66&ring_color=00FF66&include_all_commits=true" alt="GitHub statistics" />
 </a>
+
+<a href="https://github.com/0xArjun-menon">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xArjun-menon&layout=compact&hide_border=true&bg_color=080808&title_color=00FF66&text_color=FFFFFF&langs_count=8" alt="Most used programming languages" />
+</a>
+
+<br/><br/>
+
+### `// CONTRIBUTION STREAK`
+
+<img src="https://streak-stats.demolab.com?user=0xArjun-menon&hide_border=true&background=080808&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=AAAAAA" alt="GitHub contribution streak" width="80%" />
+
+<br/><br/>
+
+### `// PROFILE ACCESS`
+
+<a href="https://github.com/0xArjun-menon">
+<img src="https://img.shields.io/badge/VIEW_PROFILE-00FF66?style=for-the-badge&logo=github&logoColor=00FF66&labelColor=080808" />
+</a>
+<a href="https://github.com/0xArjun-menon?tab=repositories">
+<img src="https://img.shields.io/badge/ALL_REPOSITORIES-00FF66?style=for-the-badge&logo=github&logoColor=00FF66&labelColor=080808" />
+</a>
+
+<br/><br/>
+
+<sub>ARJUN.EXE // CONTRIBUTION MATRIX — END OF REPORT</sub>
 
 </div>
 
