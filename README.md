@@ -26,12 +26,12 @@
 
 ```text
 ╔══════════════════════════════════════════════════════════╗
-║                  ARJUN.EXE :: PROFILE                   ║
+║                  ARJUN.EXE :: PROFILE                    ║
 ╠══════════════════════════════════════════════════════════╣
 ║  USER       : Arjun Menon                                ║
 ║  ROLE       : Developer / Student                        ║
-║  INTERESTS  : Web Development / Python / ML               ║
-║  MINDSET    : Learn -> Build -> Improve                   ║
+║  INTERESTS  : Web Development / Python / ML              ║
+║  MINDSET    : Learn -> Build -> Improve                  ║
 ║  STATUS     : ONLINE                                     ║
 ╚══════════════════════════════════════════════════════════╝
 ```
@@ -170,32 +170,92 @@ Explore the repository and its implementation.
 ---
 
 
-## `03 / TECHNOLOGY MATRIX`
+## `04 / TECHNOLOGY MATRIX`
 
 <div align="center">
 
-**LANGUAGES**
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css&theme=dark" />
-
-<br/><br/>
-
-**FRAMEWORKS & DATA**
-
-<img src="https://skillicons.dev/icons?i=react,tensorflow,mysql&theme=dark" />
+<img src="https://img.shields.io/badge/SYSTEM-TECH_STACK-00FF66?style=flat-square&labelColor=080808" />
+<img src="https://img.shields.io/badge/STATUS-INITIALIZED-00FF66?style=flat-square&labelColor=080808" />
 
 <br/><br/>
 
-**DEVELOPMENT TOOLS**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,jupyter&theme=dark" />
+```text
+╭──────────────────────────────────────────────────────────────╮
+│  ARJUN.EXE :: TECHNOLOGY MATRIX                              │
+│  ──────────────────────────────────────────────────────────  │
+│  LOADING MODULES...                                          │
+│  [████████████████████████████████] 100%                     │
+╰──────────────────────────────────────────────────────────────╯
+```
 
 </div>
 
-**Libraries:** NumPy · Pandas · scikit-learn · Matplotlib
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### `01 / LANGUAGES`
+
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark" alt="Programming languages" />
+
+<sub>CORE PROGRAMMING</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### `02 / AI & DATA`
+
+<img src="https://skillicons.dev/icons?i=numpy,sklearn,tensorflow&theme=dark" alt="Machine learning and data tools" />
+
+<sub>DATA SCIENCE / ML</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### `03 / WEB DEVELOPMENT`
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express&theme=dark" alt="Web development technologies" />
+
+<sub>FRONTEND / BACKEND</sub>
+
+</td>
+<td width="50%" valign="top">
+
+### `04 / DEV ENVIRONMENT`
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Development tools" />
+
+<sub>TOOLS / VERSION CONTROL</sub>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<br/>
+
+### `// CURRENT DEVELOPMENT FOCUS`
+
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-00FF66?style=for-the-badge&labelColor=080808" />
+<img src="https://img.shields.io/badge/PYTHON-00FF66?style=for-the-badge&labelColor=080808" />
+<img src="https://img.shields.io/badge/WEB_DEVELOPMENT-00FF66?style=for-the-badge&labelColor=080808" />
+
+<br/><br/>
+
+```text
+[ SYSTEM MESSAGE ]
+TECHNOLOGIES LOADED
+MORE MODULES IN DEVELOPMENT...
+```
+
+<sub>ARJUN.EXE // TECHNOLOGY MATRIX — END OF MODULE</sub>
+
+</div>
 
 ---
-
 ## `04 / DEVELOPER LOGIC`
 
 ```python
