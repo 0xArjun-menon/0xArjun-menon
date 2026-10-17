@@ -196,21 +196,6 @@ Continuously exploring new ideas and improving my skills through practical work.
 
 </div>
 
-
-## `root@arjun:~# contribution-activity`
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=0xArjun-menon&bg_color=000000&color=00FF66&line=00FF66&point=FFFFFF&area=true&hide_border=true"
-  width="100%"
-  alt="GitHub contribution activity graph"
-/>
-
-</div>
-
-[View my GitHub contribution history](https://github.com/0xArjun-menon?tab=overview)
-
 ## `root@arjun:~# connect`
 
 <div align="center">
