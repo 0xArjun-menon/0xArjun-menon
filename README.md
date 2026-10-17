@@ -1,146 +1,106 @@
 
-<!--
-  GitHub Profile README
-  Theme: Dark Hacker / Neon Green
-  Profile: 0xArjun-menon
--->
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                  ARJUN.EXE PROFILE OS                  -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003B20,100:00FF66&height=200&section=header&text=0xArjun-menon&fontSize=48&fontColor=00FF66&fontAlignY=38&desc=DEVELOPER%20%7C%20LEARNER%20%7C%20BUILDER&descSize=16&descAlignY=60&descColor=FFFFFF" width="100%" alt="Neon green hacker header"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:020604,50:003b1c,100:00ff66&text=ARJUN.EXE&fontColor=ffffff&fontSize=68&fontAlignY=43&desc=DEVELOPER%20OPERATING%20SYSTEM&descAlignY=63&descSize=14&animation=fadeIn" width="100%" />
 
-<a href="https://github.com/0xArjun-menon">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=900&color=00FF66&center=true&vCenter=true&width=650&lines=%3E+Hello%2C+World!;%3E+Python+%7C+Machine+Learning;%3E+Building+Projects+That+Matter;%3E+Learn.+Build.+Improve.+Repeat." alt="Typing animation"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=800&color=00FF66&center=true&vCenter=true&width=700&lines=%3E+Booting+Arjun.exe...;%3E+Developer+%7C+Student+%7C+Builder;%3E+React+%2F+Python+%2F+Machine+Learning;%3E+Learn.+Build.+Debug.+Repeat.;%3E+SYSTEM+STATUS%3A+BUILDING" alt="Developer terminal animation" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/STATUS-LEARNING-00FF66?style=for-the-badge&labelColor=000000" alt="Learning status"/>
-<img src="https://img.shields.io/badge/FOCUS-PYTHON%20%26%20ML-00FF66?style=for-the-badge&labelColor=000000" alt="Python and ML"/>
-<img src="https://img.shields.io/badge/MODE-BUILDING-00FF66?style=for-the-badge&labelColor=000000" alt="Building mode"/>
-
-<br/><br/>
-
+<a href="https://github.com/0xArjun-menon">
+<img src="https://img.shields.io/badge/GITHUB-0xArjun--menon-00FF66?style=for-the-badge&logo=github&logoColor=00FF66&labelColor=080808" />
+</a>
 <a href="https://github.com/0xArjun-menon?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-MY%20PROJECTS-00FF66?style=for-the-badge&logo=github&logoColor=00FF66&labelColor=000000" alt="Explore projects"/>
+<img src="https://img.shields.io/badge/ACCESS-ALL_REPOSITORIES-00FF66?style=for-the-badge&logo=git&logoColor=00FF66&labelColor=080808" />
 </a>
 
 </div>
 
 ---
 
-## `root@arjun:~# whoami`
+## `00 / SYSTEM BOOT`
 
 ```text
-╔══════════════════════════════════════════════════╗
-║                  USER PROFILE                   ║
-╠══════════════════════════════════════════════════╣
-║  USERNAME : 0xArjun-menon                        ║
-║  NAME     : Arjun Menon                          ║
-║  ROLE     : Developer in Progress                ║
-║  FOCUS    : Python & Machine Learning            ║
-║  INTEREST : Software & Web Development           ║
-║  MINDSET  : Learn. Build. Improve.                ║
-║  STATUS   : Always Exploring                     ║
-╚══════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════╗
+║                  ARJUN.EXE :: PROFILE                   ║
+╠══════════════════════════════════════════════════════════╣
+║  USER       : Arjun Menon                                ║
+║  ROLE       : Developer / Student                        ║
+║  INTERESTS  : Web Development / Python / ML               ║
+║  MINDSET    : Learn -> Build -> Improve                   ║
+║  STATUS     : ONLINE                                     ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
-Hi! I'm **Arjun Menon**, a developer in progress who enjoys learning new technologies, solving problems, and building useful projects.
+## `01 / ABOUT`
 
-I'm currently exploring Python, machine learning, data preprocessing, and software development. I believe the best way to improve is to keep experimenting, writing code, and learning from mistakes.
+I'm a developer and student interested in building software, exploring frontend development, and learning machine learning.
 
-- 🐍 Learning Python and its ecosystem.
-- 🧠 Exploring machine learning with scikit-learn.
-- 📊 Practicing data preprocessing, scaling, and clustering.
-- 💻 Exploring web and software development.
-- 🧪 Building projects and practicing through Jupyter notebooks.
-- 🚀 Improving my coding skills one project at a time.
+- ⚛️ Exploring React and interactive web interfaces.
+- 🐍 Learning Python and data processing.
+- 🧠 Practicing machine learning workflows.
+- 🛠️ Building projects to turn concepts into practical experience.
+- 🌱 Improving my skills through experimentation and continuous learning.
 
-> `Small steps in code lead to big changes in life.`
+---
 
-## `root@arjun:~# ls ./tech-stack`
+
+## `02 / PROJECT ARCHIVE`
 
 <div align="center">
 
-### Languages & Web
+<img src="https://img.shields.io/badge/ARCHIVE_STATUS-ONLINE-00FF66?style=flat-square&labelColor=080808" />
+<img src="https://img.shields.io/badge/ACCESS-PUBLIC_REPOSITORIES-00FF66?style=flat-square&labelColor=080808" />
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark" alt="Python Java JavaScript HTML CSS"/>
+<br/><br/>
 
-### Data Science & Machine Learning
-
-<img src="https://skillicons.dev/icons?i=numpy,sklearn,tensorflow&theme=dark" alt="NumPy scikit-learn TensorFlow"/>
-
-<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=150458" alt="Pandas"/>
-<img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=plotly&logoColor=00FF66" alt="Matplotlib"/>
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql,jupyter&theme=dark" alt="Git GitHub VS Code Linux MySQL Jupyter"/>
-
-</div>
-
-## `root@arjun:~# cat ./current-mission.txt`
-
-```python
-mission = {
-    "learn": [
-        "Python programming",
-        "Machine learning fundamentals",
-        "Data preprocessing",
-        "Software development"
-    ],
-    "practice": [
-        "NumPy and Pandas",
-        "scikit-learn",
-        "Jupyter notebooks",
-        "Git and GitHub"
-    ],
-    "build": [
-        "Machine learning experiments",
-        "Useful developer tools",
-        "Practical software projects"
-    ],
-    "mindset": "Keep learning. Keep building."
-}
-
-print("Mission in progress...")
+```text
+┌────────────────────────────────────────────────────────────┐
+│  ARJUN.EXE / PROJECT DATABASE                              │
+│  ────────────────────────────────────────────────────────  │
+│  INDEXING PROJECTS...  [████████████████████] COMPLETE      │
+└────────────────────────────────────────────────────────────┘
 ```
 
-## `root@arjun:~# ls ./projects`
-
-Here are some of my projects and learning repositories.
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎙️ Speech Logix — Log Viewer
+<h3>⚛️ 001 / REACT LAB</h3>
 
-A log viewer project focused on analyzing and managing logs.
+<img src="https://img.shields.io/badge/TYPE-FRONTEND-00FF66?style=flat-square&labelColor=080808" />
 
-**Focus areas**
-- Log analysis
-- Developer tooling
-- Practical software development
+**React Web Project**
 
-<a href="https://github.com/0xArjun-menon/speech-logix-log-viewer">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00FF66?style=for-the-badge&logo=github&logoColor=00FF66&labelColor=000000" alt="View Speech Logix"/>
+An interface development project focused on React and modern web experiences.
+
+**STACK** `React` `JavaScript`
+
+<a href="https://github.com/0xArjun-menon?tab=repositories">
+<img src="https://img.shields.io/badge/OPEN_PROJECT-00FF66?style=for-the-badge&logo=github&logoColor=00FF66&labelColor=080808" />
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### 💡 IEI
+<h3>🎙️ 002 / SPEECH LOGIX</h3>
 
-A project repository for development work and useful resources.
+<img src="https://img.shields.io/badge/TYPE-LOG_VIEWER-00FF66?style=flat-square&labelColor=080808" />
 
-**Focus areas**
-- Project development
-- Exploring technical ideas
-- Learning through practice
+**Speech Logix — Log Viewer**
 
-<a href="https://github.com/0xArjun-menon/iei">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00FF66?style=for-the-badge&logo=github&logoColor=00FF66&labelColor=000000" alt="View IEI"/>
+Explore the source code for the Speech Logix Log Viewer project.
+
+**STACK** `Software` `Logs`
+
+<a href="https://github.com/0xArjun-menon/speech-logix-log-viewer">
+<img src="https://img.shields.io/badge/OPEN_PROJECT-00FF66?style=for-the-badge&logo=github&logoColor=00FF66&labelColor=080808" />
 </a>
 
 </td>
@@ -148,80 +108,153 @@ A project repository for development work and useful resources.
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 ML Lab
+<h3>🧠 003 / ML LAB</h3>
 
-A machine-learning learning space for experiments and practice notebooks.
+<img src="https://img.shields.io/badge/TYPE-MACHINE_LEARNING-00FF66?style=flat-square&labelColor=080808" />
 
-**Focus areas**
-- Python
-- Data preprocessing
-- K-Means clustering
-- Machine-learning practice
+**Machine Learning Experiments**
+
+Practice with data preprocessing, missing values, encoding, scaling, and ML workflows.
+
+**STACK** `Python` `NumPy` `scikit-learn`
 
 <a href="https://github.com/0xArjun-menon/ml-lab">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-00FF66?style=for-the-badge&logo=github&logoColor=00FF66&labelColor=000000" alt="View ML Lab"/>
+<img src="https://img.shields.io/badge/OPEN_PROJECT-00FF66?style=for-the-badge&logo=github&logoColor=00FF66&labelColor=080808" />
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 Next Project
+<h3>◈ 004 / IEI</h3>
 
-Continuously exploring new ideas and improving my skills through practical work.
+<img src="https://img.shields.io/badge/TYPE-DEVELOPMENT-00FF66?style=flat-square&labelColor=080808" />
 
-**Coming up**
-- More Python projects
-- Machine-learning experiments
-- Better project documentation
+**IEI Project**
 
-<a href="https://github.com/0xArjun-menon?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20ALL-00FF66?style=for-the-badge&logo=github&logoColor=00FF66&labelColor=000000" alt="Explore all repositories"/>
+Explore the repository and its implementation.
+
+**STACK** `Source Code` `Development`
+
+<a href="https://github.com/0xArjun-menon/iei">
+<img src="https://img.shields.io/badge/OPEN_PROJECT-00FF66?style=for-the-badge&logo=github&logoColor=00FF66&labelColor=080808" />
 </a>
 
 </td>
 </tr>
 </table>
 
-## `root@arjun:~# git stats`
-
 <div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=0xArjun-menon&show_icons=true&hide_border=true&bg_color=000000&title_color=00FF66&icon_color=00FF66&text_color=FFFFFF&ring_color=00FF66" alt="GitHub statistics"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xArjun-menon&layout=compact&hide_border=true&bg_color=000000&title_color=00FF66&text_color=FFFFFF" alt="Most used programming languages"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=0xArjun-menon&hide_border=true&background=000000&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=808080" alt="GitHub contribution streak"/>
+```text
+╔════════════════════════════════════════════════════════════╗
+║  REPOSITORY INDEX                                         ║
+║                                                            ║
+║  All projects • Experiments • Source code                  ║
+║                                                            ║
+║  STATUS : READY                                            ║
+╚════════════════════════════════════════════════════════════╝
+```
 
-</div>
-
-## `root@arjun:~# connect`
-
-<div align="center">
-
-<a href="https://github.com/0xArjun-menon">
-<img src="https://img.shields.io/badge/GitHub-0xArjun--menon-00FF66?style=for-the-badge&logo=github&logoColor=00FF66&labelColor=000000" alt="GitHub profile"/>
+<a href="https://github.com/0xArjun-menon?tab=repositories">
+<img src="https://img.shields.io/badge/⌘_EXPLORE_ALL_REPOSITORIES-00FF66?style=for-the-badge&logo=github&logoColor=00FF66&labelColor=080808" />
 </a>
 
 <br/><br/>
 
-Feel free to explore my repositories and follow my learning journey.
+<sub>ARJUN.EXE // PROJECT ARCHIVE — END OF INDEX</sub>
 
 </div>
 
 ---
 
+
+## `03 / TECHNOLOGY MATRIX`
+
 <div align="center">
 
-```text
-01001000 01000001 01000011 01001011
+**LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css&theme=dark" />
+
+<br/><br/>
+
+**FRAMEWORKS & DATA**
+
+<img src="https://skillicons.dev/icons?i=react,tensorflow,mysql&theme=dark" />
+
+<br/><br/>
+
+**DEVELOPMENT TOOLS**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,jupyter&theme=dark" />
+
+</div>
+
+**Libraries:** NumPy · Pandas · scikit-learn · Matplotlib
+
+---
+
+## `04 / DEVELOPER LOGIC`
+
+```python
+class ArjunEXE:
+    def __init__(self):
+        self.interests = [
+            "React Development",
+            "Python Programming",
+            "Machine Learning",
+            "Software Projects"
+        ]
+        self.mode = "CONTINUOUS_LEARNING"
+
+    def build(self):
+        return "Ideas become better through implementation."
+
+developer = ArjunEXE()
+print(developer.build())
 ```
 
-### `while (curious) { learn(); build(); improve(); }`
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF66,50:003B20,100:000000&height=110&section=footer" width="100%" alt="Neon green footer"/>
+## `05 / CONTRIBUTION SIGNAL`
 
-<sub>Designed with 💚 and code · Keep learning. Keep building. Keep growing.</sub>
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xArjun-menon&bg_color=080808&color=00ff66&line=00ff66&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+
+<br/>
+
+<a href="https://github.com/0xArjun-menon?tab=overview">
+<img src="https://img.shields.io/badge/VIEW-CONTRIBUTION_HISTORY-00FF66?style=for-the-badge&logo=github&logoColor=00FF66&labelColor=080808" />
+</a>
+
+</div>
+
+---
+
+## `06 / CONNECT`
+
+<div align="center">
+
+<a href="https://github.com/0xArjun-menon">
+<img src="https://img.shields.io/badge/GITHUB-VISIT_PROFILE-00FF66?style=for-the-badge&logo=github&logoColor=00FF66&labelColor=080808" />
+</a>
+
+<a href="https://github.com/0xArjun-menon?tab=repositories">
+<img src="https://img.shields.io/badge/PROJECTS-EXPLORE_ALL-00FF66?style=for-the-badge&logo=git&logoColor=00FF66&labelColor=080808" />
+</a>
+
+<br/><br/>
+
+```text
+[ CONNECTION : OPEN       ]
+[ PROJECTS   : EVOLVING   ]
+[ LEARNING   : CONTINUOUS ]
+[ NEXT BUILD : LOADING... ]
+```
+
+<sub>ARJUN.EXE // Every commit is another iteration.</sub>
 
 </div>
