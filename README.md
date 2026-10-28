@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="./dark readme.png" alt="Arjun Ubuntu Terminal Profile" width="110%" />
+  <img src="./dark readme.png" alt="Arjun Ubuntu Terminal Profile" width="140%" />
 </div>
