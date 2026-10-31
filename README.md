@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="./dark readme.png" alt="Arjun Ubuntu Terminal Profile" width="200%" />
+  <img src="./Arch Linux Terminal Profile Card.png" alt="Arjun Ubuntu Terminal Profile" width="80%" />
 </div>
