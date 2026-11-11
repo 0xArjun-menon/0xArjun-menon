@@ -1,7 +1,7 @@
 import fs from "fs";
 import fetch from "node-fetch";
 
-const USER = "mrwildfoxgamer";
+const USER = "0xArjun-menon";
 const TOKEN = process.env.GITHUB_TOKEN;
 
 console.log("=".repeat(50));
